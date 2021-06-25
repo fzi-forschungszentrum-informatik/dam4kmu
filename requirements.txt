@@ -1,0 +1,21 @@
+beautifulsoup4==4.9.1 
+lxml==4.6.1 
+Django==3.0.6
+django-tinymce==3.0.2
+django-jsonfield==1.4.1
+djangorestframework==3.11.0
+gensim==3.8.3
+google-api-python-client==1.12.5
+numpy==1.19.0
+pandas==1.0.5
+requests==2.24.0
+scikit-learn==0.23.1
+sentence-transformers==0.3.8
+spacy==2.3.0
+spacy-iwnlp==0.0.2
+jsonschema==3.2.0 
+SPARQLWrapper==1.8.5
+torch==1.7.1
+transformers==3.3.1
+psycopg2-binary==2.8.6
+de-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/de_core_news_lg-2.3.0/de_core_news_lg-2.3.0.tar.gz

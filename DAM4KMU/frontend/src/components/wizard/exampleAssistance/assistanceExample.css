@@ -1,0 +1,253 @@
+span.exmpWord {
+    display: inline-block;
+    font-weight: bold;
+}
+
+span.exmpWordF {
+    display: inline-block;
+    font-weight: bold;
+}
+
+span.exmpWordT {
+    display: inline-block;
+    font-weight: bold;
+}
+   
+span.exmpWordF.refObject:empty::before {
+    content: 'Das Auto';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordF.parentRefObject:empty::before {
+    content: 'des Jahres';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordF.priority:empty::before {
+    content: 'sollte';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordFFW {
+    display: inline-block;
+    font-weight: bold;
+}
+
+span.exmpWordFFW.functionWord1:empty::before {
+    content: 'fähig sein';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordFFW.functionWord2:empty::before {
+    content: 'die Möglichkeit bieten';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordF.actor:empty::before {
+    content: 'dem Benutzer';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordF.parentActor:empty::before {
+    content: 'der Firma';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordF.object:empty::before {
+    content: 'die Bierkästen';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+
+span.exmpWordF.parentObject:empty::before {
+    content: 'von Höpfner';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordF.processWord:empty::before {
+    content: 'zu transportieren';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordF.processWord.textF_1:empty::before {
+    content: 'transportieren.';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+/*------------ NF ----------------*/
+span.exmpWord.attribute:empty::before {
+    content: 'Die Farbe';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWord.refObject_NF:empty::before {
+    content: 'des Autos';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWord.parentRefObject_NF:empty::before {
+    content: 'des Jahres';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWord.priority:empty::before {
+    content: 'sollte';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+span.exmpWord.comparatorWord:empty::before {
+    content: 'gleich';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+span.exmpWord.attValue:empty::before {
+    content: 'rot';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+
+/* ##########  TASK #############*/
+
+span.exmpWordT.person.textT_1:empty::before {
+    content: 'Bob';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.person.textT_2:empty::before {
+    content: '@Ryan';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.person.textT_3:empty::before {
+    content: 'Max Mustermann';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.priority.textT_1:empty::before {
+    content: 'sollte';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.priority.textT_2:empty::before {
+    content: 'muss';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.priority.textT_3:empty::before {
+    content: 'darf';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.refObject.textT_1:empty::before {
+    content: 'das Auto';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.refObject.textT_2:empty::before {
+    content: 'die GUI';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.refObject.textT_3:empty::before {
+    content: 'die Maschine';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.processWord.textT_1:empty::before {
+    content: 'reparieren';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.processWord.textT_2:empty::before {
+    content: 'besorgen';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.processWord.textT_3:empty::before {
+    content: 'modifizieren';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.endDate.textT_1:empty::before {
+    content: '12.8.2019';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.startDate.textT_2:empty::before {
+    content: '03.2019';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.startDate.textT_3:empty::before {
+    content: 'Aug 8';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}
+
+span.exmpWordT.endDate.textT_3:empty::before {
+    content: 'Aug 28';
+    display: inline-block;
+    color: gray;
+    font-weight: normal;
+}

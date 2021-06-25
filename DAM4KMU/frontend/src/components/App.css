@@ -1,0 +1,22 @@
+hr.remanBody {
+    border-top: 1px dashed white;
+}
+
+.centered.recommendedAssetInfo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.recommendedAssetInfo {
+    border: 3px solid #f1f1f1;
+    background: #cc0000;
+    width: auto;
+    
+}
+
+.btn.btn-primary.assetInfoIcon {
+    width: 100%;
+}

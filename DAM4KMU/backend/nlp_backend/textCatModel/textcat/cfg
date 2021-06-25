@@ -1,0 +1,11 @@
+{
+  "exclusive_classes":true,
+  "architecture":"simple_cnn",
+  "labels":[
+    "req",
+    "todo",
+    "info"
+  ],
+  "pretrained_vectors":null,
+  "pretrained_dims":null
+}

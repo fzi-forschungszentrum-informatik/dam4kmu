@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     inkscape:export-ydpi="600"
+     inkscape:export-xdpi="600"
+     inkscape:export-filename="U:\PDE\PDE_Projekte\1_Aktuelle Projekte\2019 DAM4KMU NetSyno\5_Publikationen_und_PR\Vorlagen\Logo\DAM4KMU_Logo.png"
+     width="206.06"
+     height="54"
+     overflow="hidden"
+     version="1.1"
+     id="svg31"
+     sodipodi:docname="DAM4KMU_Logo.svg"
+     inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+    <metadata
+         id="metadata35">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <sodipodi:namedview
+         inkscape:document-rotation="0"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1"
+         objecttolerance="10"
+         gridtolerance="10"
+         guidetolerance="10"
+         inkscape:pageopacity="0"
+         inkscape:pageshadow="2"
+         inkscape:window-width="2560"
+         inkscape:window-height="1387"
+         id="namedview33"
+         showgrid="false"
+         inkscape:zoom="7.2576055"
+         inkscape:cx="102.45549"
+         inkscape:cy="32.5"
+         inkscape:window-x="-8"
+         inkscape:window-y="-8"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="svg31" />
+    <defs
+         id="defs5">
+        <clipPath
+             id="clip0">
+            <rect
+                 x="327"
+                 y="80"
+                 width="268"
+                 height="91"
+                 id="rect2" />
+        </clipPath>
+    </defs>
+    <g
+         clip-path="url(#clip0)"
+         transform="translate(-357.58,-93)"
+         id="g29">
+        <text
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="700"
+             font-size="32px"
+             transform="translate(355.26,134)"
+             id="text9">DAM <tspan
+     font-size="32px"
+     x="138"
+     y="0"
+     id="tspan7">KMU</tspan></text>
+        <path
+             d="m 450.17,138.14 -8.8,8.79 h -5.79 v -5.79 l 8.8,-8.79 z"
+             fill="#127dac"
+             fill-rule="evenodd"
+             id="path11" />
+        <path
+             d="m 480.19,132.32 8.8,8.8 v 5.79 h -5.79 l -8.8,-8.8 z"
+             fill="#c1303a"
+             fill-rule="evenodd"
+             id="path13" />
+        <path
+             d="m 474.44,102.32 8.79,-8.797 h 5.79 v 5.79 l -8.79,8.797 z"
+             fill="#00b050"
+             fill-rule="evenodd"
+             id="path15" />
+        <path
+             d="m 444.41,108.13 -8.79,-8.794 v -5.789 h 5.78 l 8.8,8.793 z"
+             fill="#ffc000"
+             fill-rule="evenodd"
+             id="path17" />
+        <path
+             d="m 461.73,93.001 c 14.91,-0.151 27.12,11.809 27.27,26.719 0,0 0,0 0,0.1 l -8.23,0.1 c -0.1,-10.37 -8.55,-18.7 -18.92,-18.62 0,0 0,0 0,0 z"
+             fill="#00b050"
+             fill-rule="evenodd"
+             id="path19" />
+        <path
+             d="m 489,119.72 c 0.15,14.92 -11.81,27.13 -26.73,27.28 0,0 0,0 -0.1,0 l -0.1,-8.08 c 10.45,-0.1 18.85,-8.62 18.77,-19.07 0,0 0,0 0,0 z"
+             fill="#c1303a"
+             fill-rule="evenodd"
+             id="path21" />
+        <path
+             d="m 462.27,147 c -14.91,0.15 -27.12,-11.81 -27.27,-26.72 0,-0.1 0,-0.19 0,-0.28 h 8.08 c 0,10.45 8.47,18.92 18.92,18.92 0.1,0 0.13,0 0.19,0 z"
+             fill="#127dac"
+             fill-rule="evenodd"
+             id="path23" />
+        <path
+             d="m 435,120.28 c -0.15,-14.92 11.81,-27.127 26.73,-27.279 0.1,0 0.18,0 0.27,0 v 8.229 c -10.37,0 -18.77,8.4 -18.77,18.77 0,0.1 0,0.13 0,0.19 z"
+             fill="#ffc000"
+             fill-rule="evenodd"
+             id="path25" />
+        <text
+             fill="#00b050"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="700"
+             font-size="43px"
+             transform="translate(448.93,135)"
+             id="text27">4</text>
+    </g>
+</svg>
