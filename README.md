@@ -9,7 +9,7 @@
 #### Steps to install and run the program
 - **git clone**
 ```
-git clone TBD
+git clone https://github.com/fzi-forschungszentrum-informatik/dam4kmu.git
 ```
 
 - **install NodeJs** from https://nodejs.org/en/download/ (make sure `npm` is included)
@@ -18,11 +18,11 @@ git clone TBD
 ```
 C:\Program Files\nodejs\
 ```
-- **Unzip following files**
+- **Unzip following files** (using 7zip, the file fragments will be assembled automatically)
 
 ```
-DAM4KMU/backend/nlp_backend/NER_Large/vocab/vectors
-DAM4KMU/backend/nlp_backend/germanwordembeddings.model
+DAM4KMU\backend\nlp_backend\NER_Large\vocab\vectors
+DAM4KMU\backend\nlp_backend\germanwordembeddings.model
 ```
 
 - **Installing dependencies for python and nodejs**
@@ -44,7 +44,7 @@ python -m venv ./env
 source ./env/bin/activate
 
 // Install the python dependencies
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 - **Initiate the django database**
@@ -62,7 +62,7 @@ python manage.py makemigrations
 // run Django server
 python manage.py runserver
 
-// launch another console and run React or Nodejs
+// launch another console at the repository's root and run React or Nodejs
 npm run dev
 ```
 
